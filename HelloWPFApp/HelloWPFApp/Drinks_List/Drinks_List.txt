@@ -1,0 +1,12 @@
+JackCoke 
+02300    
+-300     
+100     
+VodkaSprite 
+50060      
+-300        
+175	   
+TequilaShot 
+00002	    
+-100        
+100      

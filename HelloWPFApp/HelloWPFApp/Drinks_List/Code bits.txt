@@ -1,0 +1,10 @@
+<Button x:Name="drink1" Content="Jack and Coke" Width="80" Height="25" Margin="-300,200,0,0" Visibility="Collapsed" IsManipulationEnabled="True" Click="DrinkConfirm"/>
+                    <Button x:Name="drink2" Content="Vodka Sprite" Width="80" Height="25" Margin="-300,275,0,0" Visibility="Collapsed" IsManipulationEnabled="True" Click="DrinkConfirm"/>
+                    <Button x:Name="drink3" Content="Drink3" Width="80" Height="25" Margin="-100,200,0,0" Visibility="Collapsed" IsManipulationEnabled="True" Click="DrinkConfirm"/>
+                    <Button x:Name="drink4" Content="Drink4" Width="80" Height="25" Margin="-100,275,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
+                    <Button x:Name="drink5" Content="Drink5" Width="80" Height="25" Margin="100,200,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
+                    <Button x:Name="drink6" Content="Drink6" Width="80" Height="25" Margin="100,275,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
+                    <Button x:Name="drink7" Content="Drink7" Width="80" Height="25" Margin="300,200,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
+                    <Button x:Name="drink8" Content="Drink8" Width="80" Height="25" Margin="300,275,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
+                    <Button x:Name="drink9" Content="Drink9" Width="80" Height="25" Margin="500,200,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
+                    <Button x:Name="drink10" Content="Drink10" Width="80" Height="25" Margin="500,275,0,0" Visibility="Collapsed" IsManipulationEnabled="True"/>
